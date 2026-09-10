@@ -12,11 +12,11 @@ The application allows users to upload one or multiple PDF documents and ask que
 
 ### AI Document Summary
 
-![AI Document Summary](screenshots/02-summary.png)
+![AI Document Summary](screenshots/summary.png)
 
 ### RAG Question Answering
 
-![RAG Question Answering](screenshots/03-rag-answer.png)
+![RAG Question Answering](screenshots/rag-answer.png)
 
 ## 🚀 Features
 
