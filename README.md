@@ -4,6 +4,20 @@ An intelligent document assistant built with **Python, Streamlit, Retrieval-Augm
 
 The application allows users to upload one or multiple PDF documents and ask questions about their content. It retrieves relevant information from the documents and uses Gemini to generate contextual answers based on the retrieved content.
 
+## 🖥️ Application Preview
+
+### PDF Upload & Document Processing
+
+![PDF Upload and Processing](screenshots/01-home.png)
+
+### AI Document Summary
+
+![AI Document Summary](screenshots/02-summary.png)
+
+### RAG Question Answering
+
+![RAG Question Answering](screenshots/03-rag-answer.png)
+
 ## 🚀 Features
 
 - Upload one or multiple PDF documents
