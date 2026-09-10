@@ -8,7 +8,7 @@ The application allows users to upload one or multiple PDF documents and ask que
 
 ### PDF Upload & Document Processing
 
-![PDF Upload and Processing](screenshots/01-home.png)
+![PDF Upload and Processing](screenshots/home.png)
 
 ### AI Document Summary
 
